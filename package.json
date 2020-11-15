@@ -1,5 +1,5 @@
 {
-  "name": "tcc-backend",
+  "name": "tcc-plataforma-backend",
   "version": "1.0.0",
   "description": "",
   "main": "./src/index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eduardoRG95/tcc-backend.git"
+    "url": "git+https://github.com/eduardoRG95/tcc-plataforma-backend.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/eduardoRG95/tcc-backend/issues"
+    "url": "https://github.com/eduardoRG95/tcc-plataforma-backend/issues"
   },
-  "homepage": "https://github.com/eduardoRG95/tcc-backend#readme",
+  "homepage": "https://github.com/eduardoRG95/tcc-plataforma-backend#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
