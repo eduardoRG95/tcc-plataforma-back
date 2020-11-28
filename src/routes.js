@@ -9,7 +9,6 @@ routes.use(cors());
 
 
 routes.get('/Produto', produtoController.index);
-routes.delete('/Produto/:id', produtoController.delete);
 routes.get('/Produto/:name', produtoController.search);
 
 
