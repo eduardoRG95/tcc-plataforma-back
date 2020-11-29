@@ -10,8 +10,8 @@ routes.use(cors());
 
 
 
-routes.get('/Carrinho', carrinhoController.GetProductsCart);
 routes.get('/Produto', produtoController.index);
+routes.get('/Carrinho/:id', carrinhoController.GetProductsCart);
 routes.get('/Produto/:name', produtoController.search);
 
 
